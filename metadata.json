@@ -1,0 +1,5 @@
+{
+  "name": "Kasa",
+  "description": "A secure, cute note-taking application designed for storing sensitive information like bank passwords. Features a crate-themed UI, master password protection, and double-click-to-copy functionality.",
+  "requestFramePermissions": []
+}
