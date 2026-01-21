@@ -13,7 +13,7 @@
 *   **🌑 Dark & Light Mode:** Beautiful, responsive UI with automatic dark mode support.
 *   **📱 Native Experience:** Built with Capacitor to run smoothly as a native Android app.
 *   **⚡ High Performance:** Powered by Vite and React 19 for instant load times.
-*   **👆 Biometric Ready:** Architecture prepared for biometric authentication integration.
+
 
 ## 🛠️ Tech Stack
 
